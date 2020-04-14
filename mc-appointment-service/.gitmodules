@@ -1,0 +1,3 @@
+[submodule "mc-backend"]
+	path = mc-backend
+	url = https://github.com/dazzkaminski/mc-backend
