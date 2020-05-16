@@ -6,9 +6,11 @@
 * Sends a reminder email a day before the appointment
 
 ## Build with
+* Spring Web
 * Spring Cloud
 * Hibernate
 * Thymeleaf
+* Swagger
 * Gradle
 
 ### Microservices on Eureka server:
